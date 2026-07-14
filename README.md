@@ -20,7 +20,7 @@ Reads JS URLs from stdin, fetches each file, and prints any discovered secrets d
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jshunter
+git clone https://github.com/Omar-OM7/jshunter
 cd jshunter
 pip install -r requirements.txt
 chmod +x jshunter.py
